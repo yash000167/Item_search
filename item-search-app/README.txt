@@ -30,7 +30,7 @@ Installation
    git clone https://github.com/yash000167/Item_search.git
 
 2. Navigate to the project directory:
-   cd your-repository-folder
+   cd item-serch-app
 
 3. Install dependencies:
    npm install
