@@ -27,7 +27,7 @@ Ensure you have the following installed:
 Installation
 ------------
 1. Clone the repository:
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/yash000167/Item_search.git
 
 2. Navigate to the project directory:
    cd your-repository-folder
